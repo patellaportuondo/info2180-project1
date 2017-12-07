@@ -1,0 +1,127 @@
+body{
+	background-color: grey;
+}
+.top {
+    position: relative;
+    margin: 5px;
+}
+
+.name{
+    border-bottom-style: solid;
+    border-color: gainsboro;
+}
+
+.intro{
+    width: 960px;
+    color: gainsboro;
+}
+
+img{
+	height: 220px;
+	width: 150px;
+	position: absolute;
+	top: 10px;
+	right: 20px;
+    transform: rotate(-7deg);
+}
+
+.to-be-bold{
+    font-weight: bold;
+}
+#email{
+    color: gainsboro;
+}
+.eblock{
+    height: 140px;
+    margin: 5px;
+}
+.education{
+    float: left;
+	height: 130px;
+	width: 200px;
+	border-right-style: solid;
+    border-color: gainsboro;
+    margin: 5px;
+}
+
+.elist{
+    float: left;
+}
+
+.sblock{
+    height: 110px;
+    margin: 5px;
+}
+.skill{
+    float: left;
+	height: 100px;
+	width: 200px;
+	border-right-style: solid;
+    border-color: gainsboro;
+    margin: 5px;
+    clear: both;
+}
+
+.slist{
+    float: left;
+}
+
+.exblock{
+    height: 170px;
+    margin: 5px;
+}
+
+.experience{
+    float: left;
+	height: 160px;
+	width: 200px;
+	border-right-style:solid;
+    border-color: gainsboro;
+    margin: 5px;
+    clear: both;
+}
+.exlist{
+    float: left;
+}
+
+.exlist h5{
+    position: absolute;
+    top: 0px;
+    right: 700px;
+    color: gainsboro;
+}
+.hblock{
+    height: 90px;
+    margin: 5px;
+}
+
+.hobbies{
+    float: left;
+    height: 80px;
+	width: 200px;
+	border-right-style:solid;
+    border-color: gainsboro;
+    margin: 5px;
+    clear: both;
+}
+
+.hlist{
+    float: left;
+}
+.rblock{
+    height: 90px;
+    margin: 5px;
+}
+
+.ref{
+    float: left;
+	width: 200px;
+	border-right-style:solid;
+    border-color: gainsboro;
+    margin: 5px;
+    clear: both;
+}
+.rlist{
+    float: left;
+    margin: 5px;
+}
